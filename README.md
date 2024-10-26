@@ -36,4 +36,4 @@ The Perceptron is a type of linear classifier that updates its weights based on 
 
 ### git clone 
 ```bash
-https://github.com/rafali25/perceptron-algorithm-example.git
+https://github.com/rafali25/perceptron-algorithm
